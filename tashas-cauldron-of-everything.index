@@ -19,8 +19,8 @@
 			url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/tashas-cauldron-of-everything/optional-class-features.xml" />
 		<file name="options.xml"
 			url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/tashas-cauldron-of-everything/options.xml" />
-		<file name="source.xml"
-			url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/tashas-cauldron-of-everything/source.xml" />
+		<!-- <file name="source.xml"
+			url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/tashas-cauldron-of-everything/source.xml" /> -->
 		<file name="spells.xml"
 			url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/tashas-cauldron-of-everything/spells.xml" />
 		<file name="artificer-infusions.xml"
